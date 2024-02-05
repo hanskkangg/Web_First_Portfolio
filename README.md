@@ -1,5 +1,5 @@
 # Web_First_Portfolio
-I recently cleaned up my Google Drive images, and as a result, all the images that were used in my first portfolio are now gone. Here are snapshots of my first portfolio when all the images were available.
+I recently cleaned up my Google Drive, and as a result, all the images that were used in my first portfolio are now gone. Here are snapshots of my first portfolio from when all the images were still available.
 <br><br>
 Index
 ![index](https://github.com/hanskkangg/Web_First_Portfolio/assets/156132740/5eb77ba4-4ac8-4807-81a2-0e21e6f190bd)
